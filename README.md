@@ -27,7 +27,7 @@ products = {
     2: {"item": "bread", "price": 2, "amount": 5},
     # ...
 }
-
+````
 ## How to Run
 
  Clone the repository:
