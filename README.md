@@ -27,3 +27,10 @@ products = {
     2: {"item": "bread", "price": 2, "amount": 5},
     # ...
 }
+
+## How to Run
+
+ Clone the repository:
+   ```bash
+   git clone https://github.com/Zenx007/Python-API-Example.git
+   cd **directory**
